@@ -31,6 +31,11 @@ body {
   color: #61dafb;
 }
 
+Cards#card-section {
+  display: grid;
+  grid-row: 1fr 1fr 1fr;
+  color:red;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
